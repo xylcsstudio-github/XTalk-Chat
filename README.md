@@ -120,4 +120,3 @@
 
 
 本版本只能使用net 8.0进行运行，请安装net 8.0开发人员工具包https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.101-windows-x64-installer 
-  ，如果你的电脑不支持net8.0如此高的版本，那么请您下载net framework 4.8，并转到https://gitee.com/xylcsstudio/xtalk-net4   下载Net 4.8版本上运行的XTalk
